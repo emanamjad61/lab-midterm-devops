@@ -1,0 +1,7 @@
+{
+    "student_id": "FA23-BAI-028",
+    "seed": 8808,
+    "model_type": "logistic_regression",
+    "noise_level": 0.09,
+    "dataset_version": 1
+}

@@ -1,0 +1,7 @@
+{
+    "student_id": "FA23-BAI-029",
+    "seed": 399,
+    "model_type": "random_forest",
+    "noise_level": 0.08,
+    "dataset_version": 1
+}
